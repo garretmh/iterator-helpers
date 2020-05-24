@@ -1,0 +1,16 @@
+{
+  "deno.enable": true,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "axetroy.vscode-deno"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "axetroy.vscode-deno"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+}
